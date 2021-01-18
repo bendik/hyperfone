@@ -1,22 +1,22 @@
 {
-  "name": "hyperphone",
+  "name": "hyperfone",
   "version": "1.0.0",
   "description": "A telephone over Hyperbeam",
   "main": "index.js",
   "bin": {
-    "hyperphone": "index.js"
+    "hyperfone": "index.js"
   },
   "dependencies": {
     "hyperbeam": "^1.1.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/hyperphone.git"
+    "url": "https://github.com/bendik/hyperfone.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/hyperphone/issues"
+    "url": "https://github.com/bendik/hyperfone/issues"
   },
-  "homepage": "https://github.com/mafintosh/hyperphone"
+  "homepage": "https://github.com/bendik/hyperfone"
 }
